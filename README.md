@@ -6,6 +6,8 @@ A mini home-automation system using Arduino-UNO and other electronic components.
 
 *_PROJECT - WEBSITE_* : https://group9arduino-84adish.netlify.app
 
+***
+
 ### CONTRIBUTORS:
 1. Ashutosh Jaiswal - 2019UCO1616
 2. Jai Kumar - 2019UCO136
