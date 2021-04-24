@@ -1,5 +1,5 @@
 # ArduHome-Mini-Home-Automation
-** GROUP - 9 [College Project]**
+**GROUP - 9 [College Project]**
 * A mini home-automation system using Arduino-UNO and other electronic components.
 
 > _YOUTUBE - FINAL WORKING MODEL_* : https://youtu.be/G1n8HsKPnO8
